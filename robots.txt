@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coelia-bella.github.io/sitemap.xml

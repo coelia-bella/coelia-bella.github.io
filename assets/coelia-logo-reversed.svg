@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 360" role="img" aria-labelledby="title desc">
+  <title id="title">Coelia Ventures reversed logo</title>
+  <desc id="desc">Champagne Coelia Ventures logo on a dark navy field.</desc>
+  <rect width="940" height="360" rx="24" fill="#081F36"/>
+  <g transform="translate(42 36) scale(.56)" fill="#F6F0E6">
+    <path d="M454 91C354 44 225 52 143 124C63 194 51 321 116 404C184 491 323 501 423 427C469 393 485 341 459 303C439 274 403 262 363 271C400 298 409 338 384 369C342 421 252 432 192 379C132 326 134 229 191 169C250 108 349 82 454 91Z"/>
+    <path fill="#D6C4A8" d="M217 191C283 161 355 159 394 190C429 217 426 258 397 284C378 301 352 312 324 324C278 344 239 368 213 405C211 351 224 307 259 273C279 254 304 241 332 230C349 223 356 210 348 198C333 178 285 177 217 191Z"/>
+  </g>
+  <g fill="#F6F0E6">
+    <text x="356" y="208" font-family="Didot, 'Bodoni 72', 'Times New Roman', serif" font-size="178" letter-spacing="-5">Coelia</text>
+    <text x="370" y="282" font-family="'Avenir Next', Avenir, Helvetica, Arial, sans-serif" font-size="43" font-weight="400" letter-spacing="22">VENTURES</text>
+  </g>
+</svg>
