@@ -81,15 +81,15 @@ The workflow in [`.github/workflows/pages.yml`](.github/workflows/pages.yml) pub
 
 ## Updating app availability
 
-The PayScaleBD page currently displays:
+The PayScaleBD page links to the published app listings:
 
-- **App Store:** Coming soon
-- **Google Play:** Planned
+- **App Store:** [PayScaleBD for iOS](https://apps.apple.com/us/app/pay-scale-bd/id6819050160)
+- **Google Play:** [PayScaleBD for Android](https://play.google.com/store/apps/details?id=com.coeliaventures.payscalebd)
 
-When a store listing becomes available, replace the corresponding availability element in [`projects/payscalebd/index.html`](projects/payscalebd/index.html) with a link to the official listing. Only use final public store URLs.
+Keep the store links in [`projects/payscalebd/index.html`](projects/payscalebd/index.html) pointed at the final public listings.
 
 ## Support
 
-For website or PayScaleBD questions, contact [ventures.coelia@gmail.com](mailto:ventures.coelia@gmail.com).
+For website or PayScaleBD questions, contact [coelia.bella26@gmail.com](mailto:coelia.bella26@gmail.com).
 
 Copyright © 2026 Coelia Ventures.
